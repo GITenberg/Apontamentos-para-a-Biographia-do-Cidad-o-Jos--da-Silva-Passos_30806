@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34835'
     url: http://www.gutenberg.org/2009/agents/34835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30806#Apontamentos-para-a-Biographia-do-Cidad-o-Jos--da-Silva-Passos
 gutenberg_bookshelf:
 - PT Biografia
 - PT História
